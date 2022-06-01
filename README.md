@@ -1,7 +1,4 @@
-# Price Simulator: A Simulation Platform for Algorithmic Pricing
-
-![Python application](https://github.com/matthias-hettich/price_simulator/workflows/Python%20application/badge.svg)
-
+# Price Simulator
 ## Project structure
 
 The core functionality of the price simulator is in folder `price_simulator/src/algorithm`.
